@@ -1,0 +1,18 @@
+# Datasets and trained weights - not ready to push yet
+data/
+checkpoints/
+
+# All image files, anywhere in the repo
+*.png
+*.jpg
+*.jpeg
+
+# Scratch/organizing scripts - not part of the actual project
+scripts_used_for_organizing/
+
+# Standard cruft
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+.DS_Store
